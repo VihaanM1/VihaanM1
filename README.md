@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on making a video game
 - 📫 How to reach me: vihaan.wva@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I like speedcubing and art
+- ⚡ Fun fact: I like karate and chess
 - @Pryyz on discord
 <!---
 VihaanM1/VihaanM1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
