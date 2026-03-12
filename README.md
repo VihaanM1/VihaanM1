@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VihaanM1
 - 👀 I’m interested in c++ rendering like vulkan and opengl
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, object oriented especially
 - 💞️ I’m looking to collaborate on making a video game
 - 📫 How to reach me: vihaan.wva@gmail.com
 - 😄 Pronouns: he/him
